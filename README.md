@@ -15,10 +15,11 @@ But, as they say, the proof is in the pudding. So why not take a look at my repo
 
 ## Publications 
 
-
+Under Review
 [Latent representation of single-cell transcriptomes
 enables algebraic operations on cellular phenotypes](https://www.biorxiv.org/content/10.1101/2022.12.28.522060v1.full.pdf)
 
+[Adaptive Weighted Supervised Autoencoder for Digital Twin](https://pawsey.org.au/wp-content/uploads/2023/02/Sam-Koshy-Thomas-My-project-9-scaled.jpg)
 <!---
 thethomasam/thethomasam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
