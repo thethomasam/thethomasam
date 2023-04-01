@@ -15,11 +15,8 @@ But, as they say, the proof is in the pudding. So why not take a look at my repo
 
 ## Publications 
 
-Check out my latest project on [GitHub](https://github.com/myusername/myproject) – it's a machine learning model that uses natural language processing to analyze sentiment in social media posts.
-
-In this project, 
-
-Skills and Expertise
+[Latent representation of single-cell transcriptomes
+enables algebraic operations on cellular phenotypes]([https://github.com/myusername/myproject](https://www.biorxiv.org/content/10.1101/2022.12.28.522060v1.full.pdf)) 
 <!---
 thethomasam/thethomasam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
