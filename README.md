@@ -13,9 +13,11 @@ My passion for ML & AI is what drives me to create clean, efficient, and scalabl
 But, as they say, the proof is in the pudding. So why not take a look at my repositories and see for yourself what I'm capable of? And if you're interested in collaborating or discussing a potential project, I'd love to hear from you!
 
 
+## Publications 
 
+Check out my latest project on [GitHub](https://github.com/myusername/myproject) – it's a machine learning model that uses natural language processing to analyze sentiment in social media posts.
 
-
+In this project, 
 
 Skills and Expertise
 <!---
