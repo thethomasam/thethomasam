@@ -1,7 +1,7 @@
 
 # Welcome to my GitHub Profile - Where I Turn Coffee into Code ☕️💻
 
-## 🚀 About Me
+
 
 Hey there! I'm Sam, a Machine Learning and AI enthisast with a love for Deep learning, Natural Language Processing,and Generative models an insatiable thirst for solving complex problems through code.
 
