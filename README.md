@@ -16,10 +16,8 @@ But, as they say, the proof is in the pudding. So why not take a look at my repo
 ## Publications 
 
 
-Check out my latest project on [Latent representation of single-cell transcriptomes
-enables algebraic operations on cellular phenotypes](https://www.biorxiv.org/content/10.1101/2022.12.28.522060v1.full.pdf) – it's a machine learning model that uses natural language processing to analyze sentiment in social media posts.
-
-In this project,
+[Latent representation of single-cell transcriptomes
+enables algebraic operations on cellular phenotypes](https://www.biorxiv.org/content/10.1101/2022.12.28.522060v1.full.pdf)
 
 <!---
 thethomasam/thethomasam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
