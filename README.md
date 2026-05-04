@@ -1,19 +1,16 @@
 
-# Welcome to my GitHub Profile - Where I Turn Coffee into Code ☕️💻
+# Welcome to my github page
 
+Hi, I'm Sam — a machine learning engineer who loves building things.
+I've been curious about a lot of topics over the years, but never quite managed to understand them deeply, partly from a lack of the right resources to dig in. So right now I'm in a phase of building tools for myself: small systems that reduce friction in my day-to-day and make life a little easier to run.
+Along the way, these projects have become my way of learning. Concepts I could never quite see before start to click once I'm wrestling with them in code. I guess sometimes all you really need is a problem to learn from.
 
-Hey there! I'm Sam, a Machine Learning Engineer with a deep-rooted passion for AI, Deep Learning, NLP, and Generative Models. I thrive on solving problems and building solutions through code.
+So you might see a glimpse of in my profile.
 
-Whether it’s building custom tools to streamline workflows or creating systems that bring data to life, I’m all about making AI practical, efficient, and just a little bit magical.
+I work at the Australian Institute of Machine Learning, where we help South Australian SMEs integrate AI into their business models. So far, I've collaborated with two such organisations:
 
-If you’re interested in collaborating, brainstorming wild ideas, or just chatting about all things AI, reach out! Let’s see what we can build together.
-
-
-
-
-
-
-
+Vocare — a pronunciation improvement tool for migrant workers
+Paxmod — a child safeguarding tool that detects grooming behaviour in chat services
 
 ## Publications 
 
