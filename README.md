@@ -9,8 +9,8 @@ So you might see a glimpse of in my profile.
 
 I work at the Australian Institute of Machine Learning, where we help South Australian SMEs integrate AI into their business models. So far, I've collaborated with two such organisations:
 
-Vocare — a pronunciation improvement tool for migrant workers
-Paxmod — a child safeguarding tool that detects grooming behaviour in chat services
+- Vocare — a pronunciation improvement tool for migrant workers
+- Paxmod — a child safeguarding tool that detects grooming behaviour in chat services
 
 ## Publications 
 
